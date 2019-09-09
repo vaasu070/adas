@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1567866469 source:c:\users\srinivast6\desktop\allinone\integrated\afs.c
+	"goBack.h"
+	"AFS.h"
+	<avr/io.h>
+	<util/delay.h>
+	"AFS_servo.h"
+	<avr/interrupt.h>
+	"AFS_pwm.h"
+	"AFS_getWheelDegrees.h"
+
+1567745771 source:c:\users\srinivast6\desktop\allinone\integrated\fuse.c
+	<avr/io.h>
+
+1567767840 c:\users\srinivast6\desktop\allinone\integrated\goback.h
+	<avr/io.h>
+
+1567767880 c:\users\srinivast6\desktop\allinone\integrated\afs.h
+
+1567158567 c:\users\srinivast6\desktop\allinone\integrated\afs_servo.h
+
+1567157543 c:\users\srinivast6\desktop\allinone\integrated\afs_pwm.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<stdint.h>
+
+1567162676 c:\users\srinivast6\desktop\allinone\integrated\afs_getwheeldegrees.h
+
+1567852486 source:c:\users\srinivast6\desktop\allinone\integrated\afs_adc.c
+	"AFS_adc.h"
+	<avr/io.h>
+
+1567157543 c:\users\srinivast6\desktop\allinone\integrated\afs_adc.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<stdint.h>
+
+1567852531 source:c:\users\srinivast6\desktop\allinone\integrated\afs_getwheeldegrees.c
+	"AFS_adc.h"
+	"AFS_getWheelDegrees.h"
+
+1567768938 source:c:\users\srinivast6\desktop\allinone\integrated\afs_pwm.c
+	"AFS_pwm.h"
+
+1567505613 source:c:\users\srinivast6\desktop\allinone\integrated\afs_servo.c
+	<avr/io.h>
+	<util/delay.h>
+
+1567767862 source:c:\users\srinivast6\desktop\allinone\integrated\goback.c
+	"goBack.h"
+
+1567866958 source:c:\users\srinivast6\desktop\allinone\integrated\main.c
+	<avr/io.h>
+	"AFS.h"
+	"CAS_main.h"
+	"BSM.h"
+	"ACC_MAIN.h"
+
+1567863324 source:c:\users\srinivast6\desktop\allinone\integrated\acc.c
+	"ACC.h"
+	<avr/io.h>
+	"ACC_PWM_module.h"
+	"ACC_ADC_module.h"
+	<stdint.h>
+	<stdbool.h>
+	<math.h>
+	<stdlib.h>
+
+1567861910 c:\users\srinivast6\desktop\allinone\integrated\acc.h
+
+1567862164 c:\users\srinivast6\desktop\allinone\integrated\acc_pwm_module.h
+
+1567862083 c:\users\srinivast6\desktop\allinone\integrated\acc_adc_module.h
+	<stdint.h>
+
+1567862069 source:c:\users\srinivast6\desktop\allinone\integrated\acc_adc_module.c
+	"ACC_ADC_module.h"
+	<avr/io.h>
+
+1567866854 source:c:\users\srinivast6\desktop\allinone\integrated\acc_main.c
+	"ACC_ADC_module.h"
+	"ACC_PWM_module.h"
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"ACC_MAIN.h"
+
+1567864571 c:\users\srinivast6\desktop\allinone\integrated\acc_main.h
+
+1567862282 source:c:\users\srinivast6\desktop\allinone\integrated\acc_pwm_module.c
+	<avr/io.h>
+	"ACC_PWM_module.h"
+
+1567860076 source:c:\users\srinivast6\desktop\allinone\integrated\bsm.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"BSM_adc.h"
+	"BSM_timer.h"
+	"BSM_pwm.h"
+	"BSM.h"
+
+1567855766 c:\users\srinivast6\desktop\allinone\integrated\bsm_adc.h
+
+1567855790 c:\users\srinivast6\desktop\allinone\integrated\bsm_timer.h
+
+1567855781 c:\users\srinivast6\desktop\allinone\integrated\bsm_pwm.h
+
+1567858304 c:\users\srinivast6\desktop\allinone\integrated\bsm.h
+
+1567855852 source:c:\users\srinivast6\desktop\allinone\integrated\bsm_adc.c
+	<avr/io.h>
+	<util/delay.h>
+	<avr/interrupt.h>
+	"BSM_adc.h"
+
+1567855828 source:c:\users\srinivast6\desktop\allinone\integrated\bsm_pwm.c
+	<avr/io.h>
+	"BSM_pwm.h"
+
+1567855809 source:c:\users\srinivast6\desktop\allinone\integrated\bsm_timer.c
+	<avr/io.h>
+	"BSM_timer.h"
+
+1567852479 source:c:\users\srinivast6\desktop\allinone\integrated\cas_adc.c
+	"CAS_adc.h"
+
+1567743440 c:\users\srinivast6\desktop\allinone\integrated\cas_adc.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<stdint.h>
+
+1567858429 source:c:\users\srinivast6\desktop\allinone\integrated\cas_main.c
+	<avr/io.h>
+	<stdint.h>
+	"CAS_adc.h"
+	"CAS_speed.h"
+	"goBack.h"
+	<util/delay.h>
+
+1567743440 c:\users\srinivast6\desktop\allinone\integrated\cas_speed.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<stdint.h>
+
+1567768806 source:c:\users\srinivast6\desktop\allinone\integrated\cas_speed.c
+	"CAS_speed.h"
+	"CAS_adc.h"
+
+1567852614 c:\users\srinivast6\desktop\allinone\integrated\cas_main.h
+
+1567862176 source:c:\users\srinivast6\desktop\allinone\integrated\timer_module.c
+	<avr/io.h>
+	"TImer_Module.h"
+
+1567862140 c:\users\srinivast6\desktop\allinone\integrated\timer_module.h
+
